@@ -8,7 +8,4 @@ public class Celonis{
 		return false;
 	}
 
-	public String method3(){
-		return "Method three";
-	}
 }
