@@ -1,6 +1,6 @@
 public class Celonis{
 
-	public boolean method(){
+	public boolean method1(){
 		return true;
 	}
 	
